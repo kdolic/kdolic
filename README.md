@@ -39,8 +39,6 @@
   <br />
 
   <img align="left" alt="kdolic's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=kdolic&show_icons=true&hide_border=true&hide=issues&theme=merko" />
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdolic&repo=github-readme-stats)](https://github.com/kdolic/github-readme-stats)
 
 [twitter]: https://twitter.com/DolicKenan
 [linkedin]: https://linkedin.com/in/kenan-dolic
