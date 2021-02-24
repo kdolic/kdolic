@@ -8,6 +8,8 @@
 - 🥅 2021 Goals: Finish Lambda School's Web Development Program. 500+ Github contributions. Contribute to Open Source projects.
 - ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
 
+## Check out my portfolio --> https://kenan-dolic.netlify.app/
+
 ## Connect with me:
 
 [<img align="left" alt="kdolic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
