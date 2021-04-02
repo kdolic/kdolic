@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer, who loves to code!
 
 - Currently enrolled at Lambda School - Web Development
-- 📚 I’m currently learning Node  – Node.js Web APIs, Data Persistence, Authentication and Testing
+- 📚 I’m currently focusing on Computer Science  – Intro to Python, Algorithms, Data Structures, Hash Tables, Graphs, Computer Architecture
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Finish Lambda School's Web Development Program. 500+ Github contributions. Contribute to Open Source projects.
 - ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
