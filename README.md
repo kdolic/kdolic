@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Kenan
-##### I'm a Full Stack Developer, who loves to code!
+## Hi there 👋, my name is Kenan
+### I'm a Full Stack Developer, who loves to code!
 ![I am GitHub Readme Generator's creator](https://www.nizek.com/wp-content/uploads/2018/11/Post-CLIENT-SIDE-VS-SERVER-SIDE-RENDERING-WHICH-IS-THE-BEST-OPTION.jpg)
 
 - Currently enrolled at Lambda School - Web Development
@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Finish Lambda School's Web Development Program. 500+ Github contributions. Contribute to Open Source projects.
 - ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
 
-###### Check out my portfolio: https://kenan-dolic.netlify.app/
+#### Check out my portfolio: https://kenan-dolic.netlify.app/
 
 ##### Connect with me:
 
@@ -17,7 +17,7 @@
 
 <br />
 
-##### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
