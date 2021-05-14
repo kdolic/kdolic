@@ -10,7 +10,7 @@
 
 #### Check out my portfolio: https://kenan-dolic.netlify.app/
 
-##### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="kdolic | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kdolic | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
