@@ -5,7 +5,7 @@
 - Currently enrolled at Lambda School - Web Development
 - 📚 I’m currently focusing on Computer Science  – Intro to Python, Algorithms, Data Structures, Hash Tables, Graphs, Computer Architecture
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Finish Lambda School's Web Development Program. 500+ Github contributions. Contribute to Open Source projects.
+- 🥅 2021 Goals: Finish Lambda School's Web Development Program. ~~500+ Github contributions.~~ Contribute to Open Source projects.
 - ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
 
 #### Check out my portfolio: https://kenan-dolic.netlify.app/
