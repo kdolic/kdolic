@@ -3,12 +3,12 @@
 ![I am GitHub Readme Generator's creator](https://www.nizek.com/wp-content/uploads/2018/11/Post-CLIENT-SIDE-VS-SERVER-SIDE-RENDERING-WHICH-IS-THE-BEST-OPTION.jpg)
 
 - Currently enrolled at Lambda School - Web Development
-- 📚 I’m currently focusing on Computer Science  – Intro to Python, Algorithms, Data Structures, Hash Tables, Graphs, Computer Architecture
+- 📚 I’m currently focusing on Algorithms, Building web applications (DEV.FIT)
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: ~~Finish Lambda School's Web Development Program.~~ ~~500+ Github contributions.~~ Contribute to Open Source projects.
 - ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
 
-#### Check out my portfolio: https://kenan-dolic.netlify.app/
+#### Check out my portfolio: https://www.kenandolic.com/
 
 #### Connect with me:
 
