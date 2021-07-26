@@ -22,7 +22,7 @@
 
 #### Front-End:
 
-![HTML](https://img.shields.io/badge/HTML-FF3B3F?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
