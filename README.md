@@ -31,6 +31,30 @@
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 
+#### Back-End:
+
+![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
+![SQL](https://img.shields.io/badge/SQL-2E3440?style=for-the-badge&logo=sql)
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
+![Firebase](https://img.shields.io/badge/Firebase-2E3440?style=for-the-badge&logo=firebase)
+![JSON](https://img.shields.io/badge/JSON-2E3440?style=for-the-badge&logo=json)
+
+#### Tools:
+
+![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
+![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
+![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
+![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
+![Postman](https://img.shields.io/badge/Postman-2E3440?style=for-the-badge&logo=Postman)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-2E3440?style=for-the-badge&logo=lighthouse)
+![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
+![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-2E3440?style=for-the-badge&logo=adobe%20xd)
+
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
