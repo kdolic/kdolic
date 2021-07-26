@@ -27,7 +27,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
+![Context API](https://img.shields.io/badge/Context%20API-2E3440?style=for-the-badge&logo=context%20api)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 
