@@ -9,16 +9,27 @@
 - 🥅 2021 Goals: ~~Finish Lambda School's Web Development Program.~~ ~~500+ Github contributions.~~ 750+ Github contributions. Contribute to Open Source projects. Learn More About - TypeScript, Next.js
 - ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
 
-#### Check out my portfolio: https://www.kenandolic.com/
+### Check out my portfolio: https://www.kenandolic.com/
 
-#### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="kdolic | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kdolic | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-#### Languages and Tools:
+### Languages and Tools:
+
+#### Front-End:
+
+![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
+![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
+![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
+![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
